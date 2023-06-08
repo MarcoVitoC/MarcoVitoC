@@ -1,4 +1,4 @@
-### Hey there, I'm Marco 👋
+## Hey there, I'm Marco 👋
 
 - 🌍 I'm based in Indonesia
 - 🧠 Currently learning Laravel, jQuery, and AJAX
