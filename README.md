@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 <a href="https://github.com/MarcoVitoC">
   <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api?username=MarcoVitoC&show_icons=true&theme=algolia" />
-  <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoVitoC&layout=compact" />
+  <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoVitoC&layout=compact&theme=algolia" />
 </a>
