@@ -41,22 +41,22 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=jquery"/>
   </a>
   <a href="https://docs.oracle.com/en/java/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java"/>
+    <img src="https://skillicons.dev/icons?i=java&theme=light"/>
   </a>
   <a href="https://dev.mysql.com/doc/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql"/>
+    <img src="https://skillicons.dev/icons?i=mysql&theme=light"/>
   </a>
   <a href="https://www.php.net/docs.php" target="_blank">
-    <img src="https://skillicons.dev/icons?i=php"/>
+    <img src="https://skillicons.dev/icons?i=php&theme=light"/>
   </a>
   <a href="https://laravel.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=laravel"/>
+    <img src="https://skillicons.dev/icons?i=laravel&theme=light"/>
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=git"/>
   </a>
   <a href="https://code.visualstudio.com/Docs" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vscode"/>
+    <img src="https://skillicons.dev/icons?i=vscode&theme=light"/>
   </a>
   <a href="https://postman.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=postman"/>
