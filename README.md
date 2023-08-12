@@ -1,7 +1,7 @@
 ## Hey there, I'm Marco 👋
 
 - 🌍 I'm based in Indonesia
-- 🧠 Currently learning Laravel, jQuery, and AJAX
+- 🧠 Currently learning Laravel and Livewire
 - 📫 You can contact me at marcovito.chr@gmail.com
 <!--
 **MarcoVitoC/MarcoVitoC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
