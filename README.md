@@ -43,14 +43,17 @@ Here are some ideas to get you started:
   <a href="https://docs.oracle.com/en/java/" target="_blank">
     <img src="https://skillicons.dev/icons?i=java&theme=light"/>
   </a>
-  <a href="https://dev.mysql.com/doc/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql&theme=light"/>
-  </a>
   <a href="https://www.php.net/docs.php" target="_blank">
     <img src="https://skillicons.dev/icons?i=php&theme=light"/>
   </a>
   <a href="https://laravel.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=laravel&theme=light"/>
+  </a>
+  <a href="https://go.dev/learn/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=go"/>
+  </a>
+  <a href="https://dev.mysql.com/doc/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql&theme=light"/>
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=git"/>
