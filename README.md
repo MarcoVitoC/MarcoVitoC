@@ -1,7 +1,7 @@
 ## Hey there, I'm Marco 👋
 
 - 🌍 I'm based in Indonesia
-- 🧠 Currently learning Spring
+- 🧠 Currently learning Spring Boot
 - 📫 You can contact me at marcovito.chr@gmail.com
 <!--
 **MarcoVitoC/MarcoVitoC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,6 +42,9 @@ Here are some ideas to get you started:
   </a>
   <a href="https://docs.oracle.com/en/java/" target="_blank">
     <img src="https://skillicons.dev/icons?i=java&theme=light"/>
+  </a>
+  <a href="https://spring.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=spring&theme=light"/>
   </a>
   <a href="https://www.php.net/docs.php" target="_blank">
     <img src="https://skillicons.dev/icons?i=php&theme=light"/>
