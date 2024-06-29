@@ -1,7 +1,7 @@
 ## Hey there, I'm Marco 👋
 
 - 🌍 I'm based in Indonesia
-- 🧠 Currently learning Spring Boot
+- 🧠 Currently learning Spring Boot and Vue.js
 - 📫 You can contact me at marcovito.chr@gmail.com
 <!--
 **MarcoVitoC/MarcoVitoC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
