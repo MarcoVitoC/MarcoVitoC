@@ -49,9 +49,6 @@ Here are some ideas to get you started:
   <a href="https://spring.io/" target="_blank">
     <img src="https://skillicons.dev/icons?i=spring&theme=light"/>
   </a>
-  <a href="https://www.php.net/docs.php" target="_blank">
-    <img src="https://skillicons.dev/icons?i=php&theme=light"/>
-  </a>
   <a href="https://laravel.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=laravel&theme=light"/>
   </a>
