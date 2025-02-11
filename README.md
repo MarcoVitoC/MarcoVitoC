@@ -1,7 +1,7 @@
 ## Hey there, I'm Marco 👋
 
 - 🌍 I'm based in Indonesia
-- 🧠 Currently learning Spring Boot and Vue.js
+- 🧠 Currently learning Go
 - 📫 You can contact me at marcovito.chr@gmail.com
 <!--
 **MarcoVitoC/MarcoVitoC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -52,20 +52,23 @@ Here are some ideas to get you started:
   <a href="https://laravel.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=laravel&theme=light"/>
   </a>
+  <a href="https://go.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=go"/>
+  </a>
   <a href="https://dev.mysql.com/doc/" target="_blank">
     <img src="https://skillicons.dev/icons?i=mysql&theme=light"/>
   </a>
-    <a href="https://www.postgresql.org/" target="_blank">
+  <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=postgres&theme=light"/>
+  </a>
+  <a href="https://redis.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=redis&theme=light"/>
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=git"/>
   </a>
   <a href="https://code.visualstudio.com/Docs" target="_blank">
     <img src="https://skillicons.dev/icons?i=vscode&theme=light"/>
-  </a>
-  <a href="https://postman.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postman"/>
   </a>
 </div>
 <br>
