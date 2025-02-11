@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3>🌐 Languages and Tools:</h3>
+<h3>💡 Skills:</h3>
 <div display="flex">
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=c"/>
@@ -66,9 +66,6 @@ Here are some ideas to get you started:
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=git"/>
-  </a>
-  <a href="https://code.visualstudio.com/Docs" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vscode&theme=light"/>
   </a>
 </div>
 <br>
