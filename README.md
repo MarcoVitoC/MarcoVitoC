@@ -1,7 +1,7 @@
 ## Hey there, I'm Marco 👋
 
 - 🌍 I'm based in Indonesia
-- 🧠 Currently learning Go
+- 🤯 Currently learning Go
 - 📫 You can contact me at marcovito.chr@gmail.com
 <!--
 **MarcoVitoC/MarcoVitoC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3>💡 Skills:</h3>
+<h3>🧠 Skills:</h3>
 <div display="flex">
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=c"/>
