@@ -31,9 +31,6 @@ Here are some ideas to get you started:
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://skillicons.dev/icons?i=css"/>
   </a>
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=bootstrap"/>
-  </a>
     <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=tailwind&theme=light"/>
   </a>
@@ -42,6 +39,10 @@ Here are some ideas to get you started:
   </a>
     <a href="https://vuejs.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vue&theme=light"/>
+  </a>
+  </a>
+    <a href="https://pinia.vuejs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=pinia&theme=light"/>
   </a>
   <a href="https://docs.oracle.com/en/java/" target="_blank">
     <img src="https://skillicons.dev/icons?i=java&theme=light"/>
