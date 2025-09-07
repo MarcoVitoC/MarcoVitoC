@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 -->
 <h3>🧠 Skills:</h3>
 <div display="flex">
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=c"/>
-  </a>
   <a href="https://en.cppreference.com/w/" target="_blank">
     <img src="https://skillicons.dev/icons?i=cpp"/>
   </a>
@@ -66,6 +63,9 @@ Here are some ideas to get you started:
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=git"/>
+  </a>
+  <a href="https://www.docker.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker"/>
   </a>
 </div>
 <br>
