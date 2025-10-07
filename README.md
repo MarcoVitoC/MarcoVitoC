@@ -33,12 +33,15 @@ Here are some ideas to get you started:
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://skillicons.dev/icons?i=js"/>
   </a>
-    <a href="https://vuejs.org/" target="_blank">
+  <a href="https://www.typescriptlang.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ts"/>
+  </a>
+  <a href="https://react.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react&theme=light"/>
+  </a>
+  <a href="https://vuejs.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vue&theme=light"/>
   </a>
-  </a>
-    <a href="https://pinia.vuejs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=pinia&theme=light"/>
   </a>
   <a href="https://docs.oracle.com/en/java/" target="_blank">
     <img src="https://skillicons.dev/icons?i=java&theme=light"/>
